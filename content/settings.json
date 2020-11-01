@@ -1,0 +1,10 @@
+{
+  "title": "Coleus",
+  "url": "https://coleus.app",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "coleusapp/zero",
+  "twitter": "@AmirmasoudShey1"
+}
