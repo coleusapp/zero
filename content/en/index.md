@@ -16,7 +16,7 @@ features:
 
 <alert type="success">
 
-Your documentation has been created successfully!
+Hello Coleus!
 
 </alert>
 
